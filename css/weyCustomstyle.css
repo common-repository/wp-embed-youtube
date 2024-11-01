@@ -1,0 +1,26 @@
+html{background: #fff!important}
+#insert1{margin-top: 10px;}
+/* custom classes */
+.mceActionPanel {margin-top:15px;}
+.diy {margin:5px 5px 0 10px;}
+.errMsg {border: red !important;}
+.dim {float: left; width: 245px;}
+.cb {clear: both}
+.searchvalue {widh:220px;}
+.hide{display:none;}
+.input-small{width: 100px!important}
+.searchvalue{width: 200px}
+div.thumbnail:hover{background: #E6E6E6}
+h2 {font-size: 12px;color: #000000;padding:10px 0;}
+.thumb_img {width: 130px;height: 95px}
+.maincont {margin-top:20px;margin-left:43px;}
+.alignCenter{text-align: center;}
+.MarginBtmNone{margin-bottom: 0px !important}
+.MarginZero {margin: 0px!important}
+.dimenstion input{margin: 10px 0 5px 0 !important}
+.footerData {margin : 0 auto;float:none;}
+.input-append, .input-prepend{font-size: 100%;}
+#youtubePagination, #vimeoPagination{text-align: right;}
+.thumbnails{margin-left: -13px !important;}
+.thumbnails > li{margin-left: 13px;}
+.well{background-color:#fff;border:none !important;}
